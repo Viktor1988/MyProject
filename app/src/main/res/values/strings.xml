@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppTest</string>
+    <string name="random_heading">Это случайное число от 0 до %1d</string>
 </resources>
