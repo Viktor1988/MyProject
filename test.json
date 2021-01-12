@@ -1,0 +1,16 @@
+{
+  "request": [
+    {
+      "name": "Новый",
+      "url": "CreateDoc"
+    },
+    {
+      "name": "Открыть",
+      "url": "OpenDoc"
+    },
+    {
+      "name": "Закрыть",
+      "url": "CloseDoc"
+    }
+  ]
+}
