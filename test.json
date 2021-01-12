@@ -1,16 +1,16 @@
 {
   "request": [
     {
-      "name": "Новый",
-      "url": "CreateDoc"
+      "name": "Name_1",
+      "url": "https://yandex.ru/images/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDBzflKHWAAAebHq.jpg&text=альпы&rpt=simage"
     },
     {
-      "name": "Открыть",
-      "url": "OpenDoc"
+      "name": "Name_2",
+      "url": "https://yandex.ru/images/search?pos=16&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FELvQ8TiWkAARkGC.jpg&text=альпы&rpt=simage"
     },
     {
-      "name": "Закрыть",
-      "url": "CloseDoc"
+      "name": "Name_3",
+      "url": "https://yandex.ru/images/search?pos=34&from=tabbar&img_url=https%3A%2F%2Fsun9-27.userapi.com%2Fc830401%2Fv830401266%2Fd3a50%2Fuel-aWkNZDo.jpg&text=альпы&rpt=simage"
     }
   ]
 }
